@@ -4,3 +4,6 @@ scikit-learn
 jupyter
 ipykernel
 python-dotenv
+matplotlib
+seaborn
+imbalanced-learn
